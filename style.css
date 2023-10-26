@@ -1,0 +1,17 @@
+header{
+background-color: darkgrey;
+}
+.cabeçalho-imagem{
+white:20%
+}
+.cabeçalho{
+background-color: #383D58
+color:white
+display:flex
+justify-content:space-around;
+}
+.cabeçalho-lista-item{
+display:inline-black;
+margin: 0 16px;
+
+}
